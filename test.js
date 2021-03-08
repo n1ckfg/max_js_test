@@ -1,3 +1,7 @@
+// Note that this example is for the original Max js object, which only supports ES5.
+// For ES6, use the newer node.js object.
+// https://cycling74.com/forums/any-plans-to-update-support-for-recent-versions-of-js
+
 "use strict";
 
 // ~ ~ ~ these variables are built-in ~ ~ ~
